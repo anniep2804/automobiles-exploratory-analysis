@@ -20,3 +20,4 @@ fuel economy, and market price.
 ## Files 
 - automobiles.ipynb
 - EDA Report - Automobiles Dataset.pdf
+- automobiles.txt
